@@ -1,1 +1,1 @@
-# INF385T_assignments
+# INF385T lab assignments
